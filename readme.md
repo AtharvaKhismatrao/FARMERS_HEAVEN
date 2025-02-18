@@ -1,16 +1,16 @@
 
 # FARMER'S HEAVEN
 
-Farmer's Heaven is an innovative platform where farmers can upload leaf images to detect plant diseases with the help of an AI prediction model. Our advanced AI model analyzes each leaf, provides a risk percentage for potential diseases that the plant could be under and suggests effective remedies. 
-We aim to empower farmers with timely insights to safeguard crops and boost yields.
+Farmer's Heaven is an innovative platform where farmers can upload leaf images to detect plant diseases with the help of an AI prediction model. Our advanced AI model analyzes each leafand provides a risk percentage for potential to get affected by a disease and suggests effective remedies. 
+We aim to empower farmers with timely insights to safeguard crops to boost the yields.
 
 
 ## REQUIREMENTS
 
-- HTML, CSS, JavaScript
-- Python
-- fastAPI
-- Tensorflow
+- HTML, CSS, JavaScript.
+- Python.
+- fastAPI.
+- Tensorflow.
 - Datset is downloaded from : **https://www.kaggle.com/datasets/arjuntejaswi/plant-village**
 
 
